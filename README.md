@@ -1,4 +1,4 @@
-Hi, I'm Todd Barton (aka RadiantInferno or Radsi)
+Hi, I'm Jade Barton (aka RadiantInferno or Radsi)
 I enjoy programming games, and am currently studing a Bachelor of Science in Games Development at UTS.
 
 <!---- 👋 Hi, I’m @RadiantInferno
